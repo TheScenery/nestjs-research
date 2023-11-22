@@ -9,6 +9,10 @@ export const Back = () => {
       </div>
 
       <Link href="/">Link Home</Link>
+
+      <div>
+        <a href="/">Html link home</a>
+      </div>
     </div>
   );
 };
